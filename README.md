@@ -1,0 +1,2 @@
+# redirect.js
+redirect.js
